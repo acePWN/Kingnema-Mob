@@ -1,0 +1,43 @@
+<resources>
+
+
+
+    <string name="app_name">KingNema</string>
+    <string name="getBranchesURL">http://10.23.32.237/Elect_FinalProj/api/getBranches.php</string>
+    <string name="getMovieByBranchURL">http://10.23.32.237/Elect_FinalProj/api/getMovieByBranch.php</string>
+    <string name="siteURL">http://10.23.32.237/Elect_FinalProj/</string>
+    <string name="noShowingImageURL">images/noshowing.png</string>
+    <string name="noUpcomingImageURL">images/noupcoming.png</string>
+    <string name="getReservedMoviesURL">http://10.23.32.237/Elect_FinalProj/api/getReservedMovies.php</string>
+    //JON STRINGS
+    <string name="signUp">http://10.23.32.237/Elect_FinalProj/api/addAccount.php </string>
+    <string name="topUp">http://10.23.32.237/Elect_FinalProj/api/topUp.php </string>
+    <string name="displayAccount">http://10.23.32.237/Elect_FinalProj/api/displayAccount.php </string>
+
+    //joba strings
+    <string name="editUsernameAPI">http://10.23.32.237/Elect_FinalProj/api/updateUsername.php</string>
+    <string name="editEmailAPI">http://10.23.32.237/Elect_FinalProj/api/updateEmail.php</string>
+    <string name="editAddressAPI">http://10.23.32.237/Elect_FinalProj/api/updateAddress.php</string>
+    <string name="editContactNumberAPI">http://10.23.32.237/Elect_FinalProj/api/updateContactNumber.php</string>
+    <string name="editPasswordAPI">http://10.23.32.237/Elect_FinalProj/api/updatePassword.php</string>
+
+
+    <string name="checkEmail">http://10.23.32.237/Elect_FinalProj/api/checkEmail.php</string>
+    <string name="deactUserAPI">http://10.23.32.237/Elect_FinalProj/api/deactUser.php</string>
+    <string name="checkCardAPI">http://10.23.32.237/Elect_FinalProj/api/checkCard.php</string>
+    <string name="getQuestionsAPI">http://10.23.32.237/Elect_FinalProj/api/getQuestions.php</string>
+    <string name="getQuestionAPI">http://10.23.32.237/Elect_FinalProj/api/getQuestionID.php</string>
+    <string name="getQuestion2API">http://10.23.32.237/Elect_FinalProj/api/getQuestion.php</string>
+    <string name="checkAnswerAPI">http://10.23.32.237/Elect_FinalProj/api/checkAnswer.php</string>
+
+
+    <string name="signInAPI">http://10.23.32.237/Elect_FinalProj/api/signIn.php</string>
+    <string name="getReserAPI">http://10.23.32.237/Elect_FinalProj/api/getReservation.php</string>
+    <string name="getMovieAPI">http://10.23.32.237/Elect_FinalProj/api/getMovie.php</string>
+    <string name="getShowIDAPI">http://10.23.32.237/Elect_FinalProj/api/getShowID.php</string>
+    <string name="checkBalanceAPI">http://10.23.32.237/Elect_FinalProj/api/checkBalance.php</string>
+    <string name="makeReservationAPI">http://10.23.32.237/Elect_FinalProj/api/makeReservation.php</string>
+    <string name="deleteReservationAPI">http://10.23.32.237/Elect_FinalProj/api/deleteReservation.php</string>
+    <string name="updateAccountAPI">http://10.23.32.237/Elect_FinalProj/api/updateAccount.php</string>
+
+</resources>
